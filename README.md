@@ -1,8 +1,9 @@
 # bitcoin-script-disassembler
 disassembler for bitcoin transactions. 
 
-A science project after reading: 
+A science project after reading Andreas M. Antonopoulos's Mastering Bitcoin and Ken Shirriff's Bitcoins the hard way.
 https://github.com/bitcoinbook/bitcoinbook
+http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
 
 Learn how to get raw bitcoin transactions in hex: https://www.reddit.com/r/Bitcoin/comments/7dtcpl/how_to_get_the_raw_transaction_in_hex_format/
 
