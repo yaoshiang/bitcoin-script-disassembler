@@ -1,5 +1,5 @@
 # bitcoin-script-disassembler
-disassembler for bitcoin transactions. Does not support segwit. 
+disassembler for bitcoin transactions. 
 
 A science project after reading: 
 https://github.com/bitcoinbook/bitcoinbook
