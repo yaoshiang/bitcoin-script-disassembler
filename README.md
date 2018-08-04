@@ -1,7 +1,13 @@
 # bitcoin-script-disassembler
 disassembler for bitcoin transactions. Does not support segwit. 
 
-Example: 
+A science project after reading: 
+https://github.com/bitcoinbook/bitcoinbook
+
+Learn how to get raw bitcoin transactions in hex: https://www.reddit.com/r/Bitcoin/comments/7dtcpl/how_to_get_the_raw_transaction_in_hex_format/
+
+
+Usage Example: 
 
 ```
 
